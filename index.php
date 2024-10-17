@@ -66,7 +66,7 @@ if (!empty($_SESSION['activa'])) {
                 <img src="Cliente/img/logoTiendaInstagram.png" width="400px" height="400px" style="padding-top: 20px;">
             </div>
             <div class="col" style="background-color:#e0bbe4;  text-align: center; font-family: 'Times New Roman', serif;">
-                <h1 style="color: #2a1611">Autentificación</h1>
+                <h1 style="color: #2a1611">Autentificación para usuarios</h1>
 
                 <form style="padding: 25px;" method="POST">
                     <div>
