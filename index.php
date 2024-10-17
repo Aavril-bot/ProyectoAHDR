@@ -10,7 +10,7 @@ if (!empty($_SESSION['activa'])) {
             $alert = '<div class="alert alert-warning d-flex align-items-center" role="alert">
                         <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Danger:"><use xlink:href="#exclamation-triangle-fill"/></svg>
                         <div>
-                            Correo y/o contraseña  son obligatorios
+                            Correo y/o contraseña  son obligatoriosssss
                         </div>
                     </div>';
         } else { //cuando  si se  ingresen  datos
@@ -36,7 +36,7 @@ if (!empty($_SESSION['activa'])) {
                 $alert = '<div class="alert alert-danger d-flex align-items-center" role="alert">
             <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Warning:"><use xlink:href="#exclamation-triangle-fill"/></svg>
                 <div>
-                     Usuario y/o contraseña incorrecta!!!
+                     Usuario y/o contraseña incorrecta!!! escribela bien
                 </div>
             </div>';
                 session_destroy();
